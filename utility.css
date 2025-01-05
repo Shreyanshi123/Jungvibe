@@ -1,0 +1,27 @@
+.border{
+    border: 2px solid #A239CA;
+    margin: 3px;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center{
+    align-items: center;
+}
+.bg-light{
+    background-color:#0E0B16;
+}
+.rounded{
+    border: 2px solid #A239CA;
+    border-radius: 7px;
+}
+.m-5{
+    margin: 7px;
+}
+/* FUSCHIA BORDER #A239CA;*/
+/* VOID BG  #0E0B16;
+    STARK FOR COLOR #E7DFDD;
+    JEWEL BUTTONS #4717F6*/

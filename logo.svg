@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="200" height="200">
+  <!-- Background shape with dynamic wave pattern -->
+  <defs>
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#441752" />
+      <stop offset="100%" stop-color="#6a3480" />
+    </linearGradient>
+  </defs>
+  <path d="M0 40 Q30 10 60 40 T120 40 V120 H0 Z" fill="url(#waveGradient)" />
+
+  <!-- Circular emblem -->
+  <circle cx="60" cy="50" r="20" fill="#fff" />
+
+  <!-- Stylized "JV" text in the circle -->
+  <text x="60" y="56" fill="#441752" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="bold">
+    JV
+  </text>
+
+  <!-- Project name below -->
+  <text x="60" y="110" fill="#E7DFDD" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" font-weight="bold">
+    JungVibe
+  </text>
+</svg>
